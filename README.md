@@ -13,6 +13,11 @@
 
 ---
 
+## Run the test cases
+```bash
+    npm run test
+```
+
 ## API Reference
 
 #### Get all todos
